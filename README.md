@@ -1,1 +1,1 @@
-This is developed with minimum code to represent my details.
+This webpage is developed with minimum code to represent my details.
